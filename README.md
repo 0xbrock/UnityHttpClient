@@ -33,6 +33,7 @@ That allowed everything to compile and run.
 
 ## History
 2017-07-06 Update gameObject names, Separate canvas/control to fix display sort layer issue
+
 2017-06-20 Flickr GET calls, progress bar, UI enhancements
 
 ## Credits
